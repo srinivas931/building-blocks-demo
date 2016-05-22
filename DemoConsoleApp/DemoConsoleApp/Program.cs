@@ -10,8 +10,10 @@ namespace DemoConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! -  changed on the server");
+
             Console.WriteLine("Another line added by the client");
+           
         }
     }
 }
