@@ -19,7 +19,7 @@ namespace DemoConsoleApp
             for(int i=1; i<=10; i++)
             {
                 int k = 5 * i;
-                Console.WriteLine(k);
+                Console.WriteLine("5 * " +i+ " = " +k);
             }
            
         }
